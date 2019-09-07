@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+uffdasha
+fasdf
+
+by tetuomi
+>>>>>>> 256c78b76d636f3d4a92205e118aa7490feae581
